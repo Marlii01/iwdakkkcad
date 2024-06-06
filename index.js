@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching HornyHub 👀","Your Discord HornyHub Team 🎲"];
+const statusMessages = ["Watching HornyHub 👀","Powered By HornyHub 🔒","Listening to HornyHub 📦"];
 
 
 let currentIndex = 0;
