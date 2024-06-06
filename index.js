@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to HornyHub`);
-  console.log(`🔗 Powered By HornyHub`);
+  console.log(`🔗 Listening to HornyHub 📦`);
+  console.log(`🔗 Powered By HornyHub 🔒`);
 });
 
 
-const statusMessages = ["Watching HornyHub","Your Discord HornyHub Team"];
+const statusMessages = ["Watching HornyHub 👀","Your Discord HornyHub Team 🎲"];
 
 
 let currentIndex = 0;
